@@ -1,3 +1,4 @@
+<img src="https://media.licdn.com/dms/image/v2/D4E16AQEMLktnonUsYQ/profile-displaybackgroundimage-shrink_200_800/B4EZo25u3oIQAY-/0/1761857697362?e=1764201600&v=beta&t=UbfEp0wUNyNsRXy2FknUSnyDNuli-BrtanYR3GnZOpI">
 
 <h1 align="center">Hi 👋, I'm Minhaz Uddin</h1>
 <h3 align="center">Full-Stack Web Developer (MERN) JavaScript, React, Node.js, Firebase</h3>
